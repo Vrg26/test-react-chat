@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-react-chat/static/css/main.26f9e6b0.chunk.css",
+    "main.js": "/test-react-chat/static/js/main.facc31d2.chunk.js",
+    "main.js.map": "/test-react-chat/static/js/main.facc31d2.chunk.js.map",
+    "runtime-main.js": "/test-react-chat/static/js/runtime-main.2db622e7.js",
+    "runtime-main.js.map": "/test-react-chat/static/js/runtime-main.2db622e7.js.map",
+    "static/js/2.482bbe6c.chunk.js": "/test-react-chat/static/js/2.482bbe6c.chunk.js",
+    "static/js/2.482bbe6c.chunk.js.map": "/test-react-chat/static/js/2.482bbe6c.chunk.js.map",
+    "static/js/3.73741425.chunk.js": "/test-react-chat/static/js/3.73741425.chunk.js",
+    "static/js/3.73741425.chunk.js.map": "/test-react-chat/static/js/3.73741425.chunk.js.map",
+    "index.html": "/test-react-chat/index.html",
+    "static/css/main.26f9e6b0.chunk.css.map": "/test-react-chat/static/css/main.26f9e6b0.chunk.css.map",
+    "static/js/2.482bbe6c.chunk.js.LICENSE.txt": "/test-react-chat/static/js/2.482bbe6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db622e7.js",
+    "static/js/2.482bbe6c.chunk.js",
+    "static/css/main.26f9e6b0.chunk.css",
+    "static/js/main.facc31d2.chunk.js"
+  ]
+}
